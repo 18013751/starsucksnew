@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "706045241437",
+    "firebase_url": "https://open-source-coding.firebaseio.com",
+    "project_id": "open-source-coding",
+    "storage_bucket": "open-source-coding.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706045241437:android:383114c5c27090c2",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706045241437-a2opqblkmn4nn7knj9bjrpopjb7t4va7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseapp",
+            "certificate_hash": "47c776cc0a9843d7b753fd0940805e7bc877466c"
+          }
+        },
+        {
+          "client_id": "706045241437-457h8c1f5rjuenrrvluj2sujthmhfgsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGrcCfvxvX7s6T8Ix8mnZp09sEO0T4pMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706045241437-457h8c1f5rjuenrrvluj2sujthmhfgsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
